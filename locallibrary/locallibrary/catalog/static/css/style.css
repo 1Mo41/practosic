@@ -1,5 +1,9 @@
 .sidebar-nav {
 margin-top: 20px;
-padding: 0;
+padding:0;
 list-style: none;
+ line-height: 30px;
+}
+.li{
+font-size:20px;
 }
